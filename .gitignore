@@ -24,6 +24,7 @@ local.properties
 *.iml
 
 # Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+/.idea/
 /.idea/workspace.xml
 /.idea/libraries
 
